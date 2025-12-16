@@ -10,8 +10,8 @@ public class Ball {
 	private int radius1 = 0;
 	private int x1 = 0;
 	private int y1 = 0;
-	int Xvelocity = 3;
-	int Yvelocity = 3;
+	int Xvelocity = 1;
+	int Yvelocity = 1;
 	//constructor(s):
 	public  Ball(int x, int y, int radius){
        x1 = x;

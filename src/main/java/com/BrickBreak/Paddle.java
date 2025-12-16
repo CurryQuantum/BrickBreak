@@ -16,7 +16,7 @@ public class Paddle {
 	int y1 = 0;
 	int with1 = 0;
 	int height1 = 0;
-	double velocity = 1;
+	double velocity = .1;
 	//constructor(s):
 	public Paddle (int x, int y, int with, int height){
 	x1= x;
